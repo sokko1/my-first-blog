@@ -25,7 +25,7 @@ SECRET_KEY = 'l^u-z!8ftj+(r)&@q0dew#=_q3)vc-p0ry07srwi1mqh*(9_$y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sokko.pythonanywhere.com', 'localhost']
 
 
 # Application definition
